@@ -7,3 +7,5 @@ Me and a few others commented under his video asking if we could get the files t
 So i took this as an oprotunity to try and disign my own PCBs, and these would be them.
 
 note: these are the first time i have ever disigned PCBs, this is a warning that the disign its definetly inefficient, and in all likelyhood, hot garbage. Use with discretion. 
+
+also dont expect me to update this unless something is completely broken
