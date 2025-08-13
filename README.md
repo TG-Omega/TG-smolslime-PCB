@@ -1,4 +1,4 @@
-the rar file has all the gbr files in it, just if you dont trust a stranger on the internet to not hack you, the option in there.
+the rar file has all the gbr files in it, just if you dont trust a stranger on the internet to not hack you, the option is there.
 
 the board layout is the non-stacked schamatic as shown under the "Smol Tracker" section in the SlimeVR Docs, so when uploading the pre compiled firmware onto the tracker use the non-stacked one.
 
